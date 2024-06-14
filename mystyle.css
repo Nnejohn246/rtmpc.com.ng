@@ -1,0 +1,101 @@
+.navbar{
+    margin-bottom: 0px;
+}
+
+.welcome{
+    padding: 50px 0;
+    background-color:  darkred;
+    color: white;
+}
+
+.navbar-nav li a:hover{
+    color: brown !important;
+    text-decoration: none;
+}
+
+.aboutus{
+    padding: 40px 0;
+    background-color: #ffffff;
+}
+
+.services{
+    background-color: #f4f4f4;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.logo{
+    background-color: brown;
+}
+
+footer{
+    padding: 50px 0;
+    background-color: #050046;
+}
+
+
+footer h4{
+    color: #ccc;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+footer p{
+    color: #ccc;
+    font-size: 15px;
+}
+
+footer ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+footer ul li{
+    color: #ccc;
+}
+
+footer ul li a:hover{
+    text-decoration: none;
+    color: goldenrod;
+    font-weight: 600;
+}
+
+.pagebanner{
+    padding: 120px 0;
+    background-image: url('images/img2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.pagebanner h1{
+    background-color: darkblue;
+    color: #ccc;
+    padding: 20px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    display: inline;
+}
+
+.aboutus h4{
+    text-transform: uppercase;
+    color: darkblue;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+.aboutus h1{
+    font-weight: 700;
+    color: #020021;
+}
+
+footer #copyright{
+    border-top: 1px solid #606060;
+    padding-top: 30px;
+    color: #909090;
+    font-size: 14px;
+}
+
+
+
